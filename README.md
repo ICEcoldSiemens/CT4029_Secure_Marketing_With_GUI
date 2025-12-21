@@ -16,6 +16,6 @@ A secure marketing application with graphical user interface using SQLite and QR
 <br></br>
 
 # UPDATED DOCUMENTATION
-Original Documentation: [WIZARD - Secure Marketing Application Report.docx](https://github.com/user-attachments/files/23692248/WIZARD.-.Secure.Marketing.Application.Report.docx) <br></br>
+Original Documentation: [WIZARD - Secure Marketing Application Report.docx](https://github.com/user-attachments/files/23692248/WIZARD.-.Secure.Marketing.Application.Report.docx) <br>
 Given Grade: 60% (2:1)
 
